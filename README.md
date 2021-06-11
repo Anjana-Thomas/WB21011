@@ -1,2 +1,2 @@
 # WB21011
-Tourism website for Idukki District
+Simple tourism website for Idukki District using HTML and CSS
