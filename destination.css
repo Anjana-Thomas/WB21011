@@ -60,16 +60,16 @@ button{
     transition: transform 0.5s;
 }
 .card1{
-     background-image: url(/ex1.jpeg);
+     background-image: url(ex1.jpeg);
 }
 .card2{
-    background-image: url(/ex2.jpeg);
+    background-image: url(ex2.jpeg);
 }
 .card3{
-     background-image: url(/ex3.jpeg);
+     background-image: url(ex3.jpeg);
 }
 .card4{
-    background-image: url(/cuisine.jpeg);
+    background-image: url(cuisine.jpeg);
 }
 .card:hover{
     transform: translateY(-10px);
