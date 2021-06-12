@@ -94,7 +94,7 @@ h3,h2{
     min-height: 70vh;
     display: flex;
     justify-content: center;
-    background: url("./explore.jpg");
+    background: url("explore.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
